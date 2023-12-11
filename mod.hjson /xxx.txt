@@ -2,5 +2,11 @@ name: "Erekir-and-Serpulo-MOD"
 author:
 '''
  [blue[]]suisyou
+ [orange[]]arc
+ [blue[]]hikaritake
 '''
 displayName: "Erekir-and-Serpulo-MOD"
+description: "With this MOD you can make potatoes."
+version: "2.0"
+minGameVersion: 145.1
+hidden: false
