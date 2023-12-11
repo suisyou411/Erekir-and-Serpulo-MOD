@@ -1,1 +1,6 @@
-
+name: "Erekir-and-Serpulo-MOD"
+author:
+'''
+ [blue[]]suisyou
+'''
+displayName: "Erekir-and-Serpulo-MOD"
