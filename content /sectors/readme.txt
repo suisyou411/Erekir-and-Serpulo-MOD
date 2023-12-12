@@ -1,9 +1,9 @@
 
 
+3:scorching area/*四番目*\
 
 
-
-6:rough pond /*一番目*\
+6:rough pond/*一番目*\
 
 
 
