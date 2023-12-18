@@ -16,7 +16,8 @@ isFirstTier: true
 squareSprite: false
 
 //必要素材
-requirements: []
+requirements: [Silicon/1000
+］
 //テックツリーを追加
 research: {
     //一番最初の基準ブロックにする:true
