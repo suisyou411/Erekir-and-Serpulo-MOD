@@ -5,6 +5,7 @@ description: 強化されたメタガラス衝撃に強い
 research: {
     parent: metaglass
     requirements: [
-　　　　　metaglass200
+　　　　　metaglass/200
+
     ]
 }
