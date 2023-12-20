@@ -6,6 +6,6 @@ research: {
     parent: metaglass
     requirements: [
 　　　　　metaglass/200
-//後で材料増やす
+//後で材料増やすかも
     ]
 }
