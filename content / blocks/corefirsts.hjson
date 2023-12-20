@@ -16,7 +16,9 @@ isFirstTier: true
 squareSprite: false
 
 //必要素材
-requirements: [Silicon/1000/＊素材追加予定＊\
+requirements: [Silicon/1000
+beryllium/800
+metaglass/800
 ］
 //テックツリーを追加
 research: {
